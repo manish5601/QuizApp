@@ -1,0 +1,103 @@
+{
+    "quiz":[
+        {
+            "question": "which of the following is not a programming language?",
+            "option": ["C","C++", "Flutter", "Python"],
+            "answer": "Flutter"
+        },
+        {
+            "question": "which of the following is not a framework?",
+            "option": ["React","Angular", "Flutter", "Dart"],
+            "answer": "Dart"
+        },
+        {
+            "question": "Which of the following is not a JavaScript framework?",
+            "option": ["React", "Vue", "Angular", "Node.js"],
+            "answer": "Node.js"
+        },
+        
+        {
+            "question": "Which of the following is not a markup language?",
+            "option": ["HTML", "XML", "CSS", "JavaScript"],
+            "answer": "JavaScript"
+        },
+        
+        {
+            "question": "Which of the following is not a relational database management system (RDBMS)?",
+            "option": ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+            "answer": "MongoDB"
+        },
+        
+        {
+            "question": "Which of the following is not a cloud computing service provider?",
+            "option": ["AWS", "Google Cloud", "Azure", "Docker"],
+            "answer": "Docker"
+        },
+        
+        {
+            "question": "Which of the following is not a version control system?",
+            "option": ["Git", "SVN", "Mercurial", "TensorFlow"],
+            "answer": "TensorFlow"
+        },
+        
+        {
+            "question": "Which of the following is not a front-end development tool?",
+            "option": ["Webpack", "Babel", "Express", "Gulp"],
+            "answer": "Express"
+        },
+
+        {
+            "question": "Which of the following is not a programming paradigm?",
+            "option": ["Object-Oriented Programming (OOP)", "Functional Programming (FP)", "Procedural Programming", "RESTful Programming"],
+            "answer": "RESTful Programming"
+        },
+        
+        {
+            "question": "Which of the following is not a JavaScript library?",
+            "option": ["jQuery", "Lodash", "React", "Bootstrap"],
+            "answer": "Bootstrap"
+        },
+        
+        {
+            "question": "Which of the following is not a web browser?",
+            "option": ["Chrome", "Firefox", "Edge", "Node.js"],
+            "answer": "Node.js"
+        },
+        
+        {
+            "question": "Which of the following is not a backend programming language?",
+            "option": ["Java", "Python", "Ruby", "HTML"],
+            "answer": "HTML"
+        },
+        
+        {
+            "question": "Which of the following is not a NoSQL database?",
+            "option": ["MongoDB", "Cassandra", "Redis", "MySQL"],
+            "answer": "MySQL"
+        },
+        
+        {
+            "question": "Which of the following is not a mobile operating system?",
+            "option": ["Android", "iOS", "Windows Phone", "Node.js"],
+            "answer": "Node.js"
+        },
+        
+        {
+            "question": "Which of the following is not a machine learning algorithm?",
+            "option": ["Linear Regression", "Decision Tree", "Neural Network", "React Native"],
+            "answer": "React Native"
+        },
+        
+        {
+            "question": "Which of the following is not a version control tool?",
+            "option": ["Git", "SVN", "CVS", "Docker"],
+            "answer": "Docker"
+        },
+        
+        {
+            "question": "Which of the following is not a server-side JavaScript runtime environment?",
+            "option": ["Node.js", "Deno", "Angular", "Express"],
+            "answer": "Angular"
+        }
+    ]
+}
